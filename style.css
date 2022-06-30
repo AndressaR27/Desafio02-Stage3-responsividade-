@@ -73,7 +73,7 @@ header p {
     max-width: 32rem;
 }
 
-.tipos-sorvete {
+.types-icecream {
     max-width: 32.0rem;
     margin: auto;
     display: grid;
@@ -221,7 +221,7 @@ footer {
         display: inline;
     }
     
-    .tipos-sorvete {
+    .types-icecream {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-areas: 
@@ -235,28 +235,28 @@ footer {
         margin-left: 10rem;
         padding-right: 5rem;
     }
-    .tipos-sorvete div:nth-child(1){
+    .types-icecream div:nth-child(1){
         grid-area: A;
     }
-    .tipos-sorvete div:nth-child(2){
+    .types-icecream div:nth-child(2){
         grid-area: B;
     }
-    .tipos-sorvete div:nth-child(3){
+    .types-icecream div:nth-child(3){
         grid-area: C;  
     }
-    .tipos-sorvete div:nth-child(4){
+    .types-icecream div:nth-child(4){
         grid-area: D;  
     }
 
-    .tipos-sorvete div:nth-child(5){
+    .types-icecream div:nth-child(5){
         grid-area: E;
     }
 
-    .tipos-sorvete div:nth-child(6){
+    .types-icecream div:nth-child(6){
         grid-area: F;
     }
 
-    .tipos-sorvete div:nth-child(7){
+    .types-icecream div:nth-child(7){
         grid-area: G;
         text-align: center;
     }
