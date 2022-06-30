@@ -1,20 +1,21 @@
-### Título: Space-cream
-Projeto do curso Explorer da Rocketseat.
+### Title: Space-cream
 
-Neste projeto foi desenvolvido uma página Web usando conceitos de Mobile frist, CSS Flexbox e CSS Grid. O principal acréscimo deste projeto em meu aprendizado foi a questão da criação de uma página com responsividade, junto com @mediaquery, e a utilização de animações do CSS3.
+Explorer Course Project of [Rocketseat){https://www.rocketseat.com.br/)
 
-🛠 Tecnologias utilizadas: `HTML`,  `CSS`
+In this project a web page was developed using concepts from Mobile frist, CSS Flexbox and CSS Grid. The main addition of this project was the issue of a responsive page, with @mediaquery, and use of CSS3 animations.
 
-### Conceitos aplicados:
+🛠 Technologies used: `HTML`,  `CSS`
 
-- HTML Semantico
+### Applied concepts:
+
+- HTML Semantic
 - Mobile First
-- Unidade de medida flexível
-- Alinhamento e posicionamento de textos
-- Variáveis CSS
+- flexible unit of measure
+- Text alignment and placement
+- CSS Variables
 - Flexbox CSS
 - CSS Grid
 - Media query breakpoints
-- Animações CSS
+- CSS Animations
 
-Autora: Andressa Rodrigues
+Author: Andressa Rodrigues
